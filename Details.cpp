@@ -8,7 +8,7 @@ cout<<"What is your name? ";
 cin>>name;
 cout<<"My name is "<<name<<endl;
 
-//Integer tytpes
+//Integer types
 int age;
 cout<<"What is your age? ";
 cin>>age;
